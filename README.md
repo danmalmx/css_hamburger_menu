@@ -2,7 +2,7 @@
 
 #### CSS only hamburger menu with overlay
 
-### Demo Page Link
+### <a href="https://danmalmx.github.io/css_hamburger_menu">Demo Page Link</a>
 
 #### Screeenshot
 
